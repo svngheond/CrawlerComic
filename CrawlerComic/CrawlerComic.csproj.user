@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>D:\01.Researchs\CrawlerComic\CrawlerComic\Publish\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://doninhtatdiep.com/download/crawlercomic/|http://192.168.2.66:8001/|http://doninhtatdiep.com/download/CrawlerComic/|http://doninhtatdiep/download/CrawlerComic/|http://doninhtatdiep/CrawlerComic/</InstallUrlHistory>
+    <SupportUrlHistory>http://doninhtatdiep.com</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://doninhtatdiep.com</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

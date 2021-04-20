@@ -1,0 +1,66 @@
+{
+  "WebComics": [
+    {
+      "web": "http://nhattruyen.com",
+      "linkSearch": "http://nhattruyen.com/the-loai?keyword=",
+      "resultSearchXpath": "//div[@id='ctl00_divCenter']//div[@class='item']",
+      "tenTruyenXpath": "./figure/figcaption/h3/a",
+      "chapterMoiXpath": "./figure/figcaption/ul/li/a",
+      "luotDocXpath": "./figure/*[@class='image']/div/span/i/following-sibling::text()",
+      "anhBiaXpath": "./figure/div/a/img",
+      "listChapterXpath": "//*[@class='list-chapter']//li[not(contains(@class, 'heading'))]",
+      "linkChuongXpath": "",
+      "tenChuongXpath": "./div[1]/a",
+      "ngayCapNhatChuongXpath": "./div[2]",
+      "luotXemChuongXpath": "./div[3]",
+      "pageChapterXpath": "//*[@class='page-chapter']/img",
+      "headersDownloadImage": [
+        {
+          "key": "Referer",
+          "value": "http://nhattruyen.com"
+        }
+      ]
+    },
+    {
+      "web": "http://truyenqq.com",
+      "linkSearch": "http://truyenqq.com/tim-kiem.html?q=",
+      "resultSearchXpath": "//*[@class='story-item']",
+      "tenTruyenXpath": "./h3/a",
+      "chapterMoiXpath": "./*[@class='episode-book']/a",
+      "luotDocXpath": "",
+      "anhBiaXpath": "./a/img",
+      "listChapterXpath": "//*[@class='works-chapter-item row']",
+      "linkChuongXpath": "",
+      "tenChuongXpath": "./div/a",
+      "ngayCapNhatChuongXpath": "",
+      "luotXemChuongXpath": "",
+      "pageChapterXpath": "//*[@class='story-see-content']/img",
+      "headersDownloadImage": [
+        {
+          "key": "Referer",
+          "value": "http://truyenqq.com"
+        }
+      ]
+    },
+    {
+      "web": "https://beeng.net",
+      "linkSearch": "https://beeng.net/tim-truyen-online/",
+      "resultSearchXpath": "//*[contains(@class, 'manga-list')]//*[contains(@class, 'item')]",
+      "tenTruyenXpath": "./div/div/div[1]/a",
+      "chapterMoiXpath": "./div/div/ul/li[1]/a",
+      "luotDocXpath": "",
+      "anhBiaXpath": "./div/a/img",
+      "listChapterXpath": "//*[@class='u84ho3']",
+      "linkChuongXpath": "",
+      "tenChuongXpath": "./a",
+      "ngayCapNhatChuongXpath": "./*[@class='date']",
+      "luotXemChuongXpath": "./*[@class='hit']",
+      "pageChapterXpath": "//*[@id='image-load']/a/img",
+      "headersDownloadImage": []
+    }
+  ],
+  "MaxProcessDownload": 3,
+  "DownloadType": 0,
+  "FolderDownload": "",
+  "OffAlert": false
+}
